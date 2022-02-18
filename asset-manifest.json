@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/laptop-design/static/css/main.a3c87f4b.css",
-    "main.js": "/laptop-design/static/js/main.8b314632.js",
+    "main.css": "/laptop-design/static/css/main.45c52672.css",
+    "main.js": "/laptop-design/static/js/main.4e47e5c6.js",
+    "static/js/787.470cb93a.chunk.js": "/laptop-design/static/js/787.470cb93a.chunk.js",
     "index.html": "/laptop-design/index.html",
-    "main.a3c87f4b.css.map": "/laptop-design/static/css/main.a3c87f4b.css.map",
-    "main.8b314632.js.map": "/laptop-design/static/js/main.8b314632.js.map"
+    "main.45c52672.css.map": "/laptop-design/static/css/main.45c52672.css.map",
+    "main.4e47e5c6.js.map": "/laptop-design/static/js/main.4e47e5c6.js.map",
+    "787.470cb93a.chunk.js.map": "/laptop-design/static/js/787.470cb93a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3c87f4b.css",
-    "static/js/main.8b314632.js"
+    "static/css/main.45c52672.css",
+    "static/js/main.4e47e5c6.js"
   ]
 }
