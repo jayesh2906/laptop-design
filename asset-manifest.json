@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/laptop-design/static/css/main.cab9657a.css",
+    "main.js": "/laptop-design/static/js/main.c5161016.js",
+    "index.html": "/laptop-design/index.html",
+    "main.cab9657a.css.map": "/laptop-design/static/css/main.cab9657a.css.map",
+    "main.c5161016.js.map": "/laptop-design/static/js/main.c5161016.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab9657a.css",
+    "static/js/main.c5161016.js"
+  ]
+}
