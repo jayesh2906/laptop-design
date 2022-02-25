@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/laptop-design/static/css/main.7527b929.css",
-    "main.js": "/laptop-design/static/js/main.14d8cfcb.js",
-    "static/js/787.42812f38.chunk.js": "/laptop-design/static/js/787.42812f38.chunk.js",
+    "main.css": "/laptop-design/static/css/main.2bd25526.css",
+    "main.js": "/laptop-design/static/js/main.b1dce959.js",
+    "static/js/787.470cb93a.chunk.js": "/laptop-design/static/js/787.470cb93a.chunk.js",
+    "static/media/wallpaper.jpg": "/laptop-design/static/media/wallpaper.a7370aa2d081f25d2bd5.jpg",
     "static/media/hp_Logo.png": "/laptop-design/static/media/hp_Logo.2c61005ac0d76eefa795.png",
+    "static/media/coverBlur.jpg": "/laptop-design/static/media/coverBlur.4382532e1c94bea4ff5a.jpg",
     "static/media/cover.jpg": "/laptop-design/static/media/cover.36c0bb02038565e08f97.jpg",
+    "static/media/celebrate.jpg": "/laptop-design/static/media/celebrate.c661c892f50f4012c39b.jpg",
+    "static/media/desktop.JPG": "/laptop-design/static/media/desktop.6eb24f1f6a90b414b325.JPG",
+    "static/media/Profile.png": "/laptop-design/static/media/Profile.33e44432bbee4b4bfa0b.png",
     "static/media/webcam.png": "/laptop-design/static/media/webcam.18efcd4c77bda70a474e.png",
+    "static/media/taskbar.png": "/laptop-design/static/media/taskbar.0d047ef92f7958f852fb.png",
     "index.html": "/laptop-design/index.html",
-    "main.7527b929.css.map": "/laptop-design/static/css/main.7527b929.css.map",
-    "main.14d8cfcb.js.map": "/laptop-design/static/js/main.14d8cfcb.js.map",
-    "787.42812f38.chunk.js.map": "/laptop-design/static/js/787.42812f38.chunk.js.map"
+    "main.2bd25526.css.map": "/laptop-design/static/css/main.2bd25526.css.map",
+    "main.b1dce959.js.map": "/laptop-design/static/js/main.b1dce959.js.map",
+    "787.470cb93a.chunk.js.map": "/laptop-design/static/js/787.470cb93a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7527b929.css",
-    "static/js/main.14d8cfcb.js"
+    "static/css/main.2bd25526.css",
+    "static/js/main.b1dce959.js"
   ]
 }
