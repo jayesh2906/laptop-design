@@ -79,7 +79,7 @@ const Screen3 = ({ fingerScan, handleFourth }) => {
   return (
     <div className="screen3 bg-cover bg-coverBlur bg-no-repeat bg-center h-full w-full flex p-[1%]">
       <Left />
-      <div className="middle basis-8/12 text-white flex flex-col justify-center gap-2 items-center">
+      <div className="middle basis-8/12 text-white flex flex-col justify-center xs:gap-1 sm:gap-2 items-center">
         <img
           className="rounded-full w-[20%] h-1/4"
           src={profile}
