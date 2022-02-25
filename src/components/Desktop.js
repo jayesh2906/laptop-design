@@ -9,6 +9,7 @@ const addZero = (value) => {
   return value;
 };
 
+// Fourth screen - window screen of laptop after successfull sign in or fingerscan
 const Desktop = ({
   handleCelebrate,
   celebrate,

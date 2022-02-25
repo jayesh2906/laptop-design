@@ -3,6 +3,7 @@ import BasePanel from "./BasePanel";
 import TopPanel from "./TopPanel";
 import Confetti from "react-confetti";
 
+// Foreground of project
 const Laptop = () => {
   const [power, setPower] = useState(false);
   const [show, setShow] = useState(false);

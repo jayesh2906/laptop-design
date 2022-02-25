@@ -1,6 +1,7 @@
 import React from "react";
 import Particles from "react-tsparticles";
 
+// Live Background of project
 const Background = () => {
   return (
     <div className="absolute -z-10">

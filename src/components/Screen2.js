@@ -6,6 +6,7 @@ const addZero = (value) => {
   return value;
 };
 
+// Second screen - cover screen with date and time
 const Screen2 = ({ handleClick }) => (
   <div
     onClick={handleClick}

@@ -3,6 +3,7 @@ import hp_Logo from "../assets/hp_Logo.png";
 import webcam from "../assets/webcam.png";
 import Screens from "./Screens";
 
+// Camera, screen and hp logo of Laptop(top panel)
 const TopPanel = ({
   power,
   fingerScan,

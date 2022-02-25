@@ -5,6 +5,7 @@ import Screen2 from "./Screen2";
 import Screen3 from "./Screen3";
 import ShutDown from "./ShutDown";
 
+// All screens from power on to shut down
 const Screens = ({
   power,
   fingerScan,
@@ -68,6 +69,7 @@ const Screens = ({
     }
   }, [third, fingerScan]);
 
+  // handling sequence of the screens
   const ScreenSequence = () => {
     if (fourth) {
       return (

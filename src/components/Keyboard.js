@@ -1,5 +1,6 @@
 import React from "react";
 
+// Keybaord - contains all the key button.
 const Keyboard = ({ handlePower }) => {
   const row1 = [
     "esc",

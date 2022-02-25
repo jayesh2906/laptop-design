@@ -23,9 +23,6 @@ image {
   height: 100%;
   object-fit: cover;
 }
-body {
-  background-color: rosybrown;
-}
 @media screen and (max-width: 320px) {
   * {
     display: none;
