@@ -1,1 +1,1 @@
-Check out laptop-design-ppt.pptx for detail.
+Check out Laptop-design-ppt.pptx for implementation details.
