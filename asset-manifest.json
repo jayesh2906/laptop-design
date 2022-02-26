@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/laptop-design/static/css/main.bea13a4c.css",
+    "main.css": "/laptop-design/static/css/main.46caa252.css",
     "main.js": "/laptop-design/static/js/main.d69ff4c8.js",
     "static/js/787.470cb93a.chunk.js": "/laptop-design/static/js/787.470cb93a.chunk.js",
     "static/media/wallpaper.jpg": "/laptop-design/static/media/wallpaper.a7370aa2d081f25d2bd5.jpg",
@@ -13,12 +13,12 @@
     "static/media/webcam.png": "/laptop-design/static/media/webcam.18efcd4c77bda70a474e.png",
     "static/media/taskbar.png": "/laptop-design/static/media/taskbar.0d047ef92f7958f852fb.png",
     "index.html": "/laptop-design/index.html",
-    "main.bea13a4c.css.map": "/laptop-design/static/css/main.bea13a4c.css.map",
+    "main.46caa252.css.map": "/laptop-design/static/css/main.46caa252.css.map",
     "main.d69ff4c8.js.map": "/laptop-design/static/js/main.d69ff4c8.js.map",
     "787.470cb93a.chunk.js.map": "/laptop-design/static/js/787.470cb93a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bea13a4c.css",
+    "static/css/main.46caa252.css",
     "static/js/main.d69ff4c8.js"
   ]
 }
