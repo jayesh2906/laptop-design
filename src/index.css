@@ -3,7 +3,7 @@
 @tailwind utilities;
 @layer components {
   .key {
-    @apply bg-slate-900 hover:bg-black hover:scale-110 active:scale-100 text-white text-xxs lg:text-xs grid place-content-center;
+    @apply bg-slate-900 hover:bg-black hover:scale-110 active:scale-100 text-white text-xxs lg:text-xs grid place-content-center overflow-x-hidden;
   }
   .row {
     @apply basis-1/6 flex gap-1 justify-between;
