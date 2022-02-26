@@ -81,7 +81,7 @@ const Screens = ({
           handleSleep={handleSleep}
         />
       );
-    } else if (third) {
+    } else if (true) {
       return <Screen3 fingerScan={fingerScan} handleFourth={handleFourth} />;
     } else if (second) {
       return <Screen2 handleClick={handleClick} />;

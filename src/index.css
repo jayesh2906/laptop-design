@@ -5,8 +5,6 @@
   .key {
     @apply bg-slate-900 hover:bg-black hover:scale-110 active:scale-100 text-white text-xxs lg:text-xs grid place-content-center;
   }
-}
-@layer components {
   .row {
     @apply basis-1/6 flex gap-1 justify-between;
   }

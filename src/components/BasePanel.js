@@ -31,7 +31,7 @@ const BasePanel = ({ handlePower, handleFingerScan }) => {
         <div className="fingerLock basis-1/12">
           <div
             onClick={handleFingerScan}
-            className="h-[30%] w-3/4 ml-auto shadow-inner rounded-sm"
+            className="h-[30%] w-3/4 ml-auto shadow-inner rounded-sm hover:bg-green-400 active:bg-inherit"
           ></div>
         </div>
       </div>
