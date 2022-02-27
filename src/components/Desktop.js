@@ -79,13 +79,13 @@ const Desktop = ({
               }}
               className=" hover:bg-gray-200 px-1 mb-2 active:bg-inherit"
             >
-              <i class="fa fa-window-minimize" aria-hidden="true"></i>
+              <i className="fa fa-window-minimize" aria-hidden="true"></i>
             </div>
             <div
               onClick={() => setResize(!resize)}
               className=" hover:bg-gray-200 px-1 active:bg-inherit"
             >
-              <i class="fa fa-window-restore" aria-hidden="true"></i>
+              <i className="fa fa-window-restore" aria-hidden="true"></i>
             </div>
             <div
               onClick={() => {
@@ -94,7 +94,7 @@ const Desktop = ({
               }}
               className="hover:bg-red-600 hover:text-white px-1 active:bg-inherit active:text-inherit"
             >
-              <i class="fa fa-window-close" aria-hidden="true"></i>
+              <i className="fa fa-window-close" aria-hidden="true"></i>
             </div>
           </div>
         </div>
